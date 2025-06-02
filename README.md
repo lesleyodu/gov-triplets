@@ -18,4 +18,4 @@ Additional data available upon request:
 
 ## References
 
-Lesley Frew, Michael L. Nelson, and Michele C. Weigle. Temporally Extending Existing Web Archive Collections for Longitudinal Analysis. Presented at the 6th Research Infrastructure for the Study of Archived Web Materials (RESAW) Conference, 2025. 
+Lesley Frew, Michael L. Nelson, and Michele C. Weigle. Temporally Extending Existing Web Archive Collections for Longitudinal Analysis. Presented at the 6th Research Infrastructure for the Study of Archived Web Materials (RESAW) Conference, 2025. [arXiv:2505.24091](https://arxiv.org/abs/2505.24091)
